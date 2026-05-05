@@ -1,4 +1,11 @@
-## Hi there I'm Ilgın Başak Dilek👋
+<h1 align="center">Hi, I'm Ilgın Başak Dilek 👋</h1>
+<h3 align="center">Full Stack Developer • React • Next.js • Node.js • Laravel</h3>
+
+<p align="center">
+ I create simple, scalable web applications that work well in real life and are easy to use.
+</p>
+
+---
 
 ### Junior Web Developer | Node.js & JavaScript Learner
 
